@@ -1,0 +1,63 @@
+account_id,account_name,owner,stage,amount_usd,expected_close
+A00001,Account 1,D. Chen,Closed lost,5265,2026-10-05
+A00002,Account 2,D. Chen,Lead,75817,2026-11-12
+A00003,Account 3,R. Alvarez,Closed won,3962,2026-12-10
+A00004,Account 4,M. Okafor,Proposal,4850,2026-12-22
+A00005,Account 5,R. Alvarez,Closed won,51984,2026-12-07
+A00006,Account 6,S. Patel,Closed won,23504,2026-12-13
+A00007,Account 7,D. Chen,Proposal,11220,2026-10-03
+A00008,Account 8,M. Okafor,Proposal,3996,2026-11-07
+A00009,Account 9,R. Alvarez,Proposal,10349,2026-12-11
+A00010,Account 10,R. Alvarez,Qualified,4761,2026-12-15
+A00011,Account 11,R. Alvarez,Lead,9983,2026-10-26
+A00012,Account 12,S. Patel,Closed lost,23812,2026-12-25
+A00013,Account 13,R. Alvarez,Qualified,75335,2026-11-23
+A00014,Account 14,R. Alvarez,Closed lost,12262,2026-10-17
+A00015,Account 15,R. Alvarez,Closed lost,74168,2026-12-06
+A00016,Account 16,D. Chen,Negotiation,51199,2026-11-14
+A00017,Account 17,R. Alvarez,Lead,11301,2026-10-20
+A00018,Account 18,M. Okafor,Closed won,480000,2026-10-26
+A00019,Account 19,S. Patel,Proposal,36428,2026-12-18
+A00020,Account 20,M. Okafor,Lead,9023,2026-11-08
+A00021,Account 21,M. Okafor,Lead,51922,2026-12-26
+A00022,Account 22,R. Alvarez,Negotiation,10099,2026-10-23
+A00023,Account 23,D. Chen,Lead,51596,2026-11-03
+A00024,Account 24,S. Patel,Qualified,52063,2026-10-22
+A00025,Account 25,D. Chen,Lead,8812,2026-10-07
+A00026,Account 26,R. Alvarez,Closed won,12237,2026-12-05
+A00027,Account 27,R. Alvarez,Closed lost,12727,2026-10-17
+A00028,Account 28,D. Chen,Lead,75199,2026-10-14
+A00029,Account 29,M. Okafor,Qualified,17221,2026-12-01
+A00030,Account 30,S. Patel,Qualified,18480,2026-12-15
+A00031,Account 31,M. Okafor,Qualified,24659,2026-11-21
+A00032,Account 32,M. Okafor,Closed lost,75715,2026-10-27
+A00033,Account 33,M. Okafor,Qualified,5498,2026-10-20
+A00034,Account 34,M. Okafor,Lead,,2026-10-19
+A00035,Account 35,M. Okafor,Proposal,52521,2026-12-01
+A00036,Account 36,R. Alvarez,Closed won,74707,2026-10-27
+A00037,Account 37,R. Alvarez,Closed won,10316,2026-10-28
+A00038,Account 38,R. Alvarez,Negotiation,8875,2026-11-22
+A00039,Account 39,S. Patel,Closed won,35342,2026-11-13
+A00040,Account 40,M. Okafor,Closed lost,18685,2026-11-09
+A00041,Account 41,S. Patel,Closed won,75431,2026-10-12
+A00042,Account 42,D. Chen,Lead,12514,2026-10-10
+A00043,Account 43,S. Patel,Closed lost,35379,2026-11-02
+A00044,Account 44,S. Patel,Lead,74710,2026-10-23
+A00045,Account 45,M. Okafor,Negotiation,74522,2026-10-03
+A00046,Account 46,D. Chen,Lead,18266,2026-12-27
+A00047,Account 47,D. Chen,Closed won,9152,2026-12-21
+A00048,Account 48,S. Patel,Proposal,8963,2026-11-19
+A00049,Account 49,D. Chen,Qualified,52141,2026-10-09
+A00050,Account 50,S. Patel,Negotiation,12229,2026-11-10
+A00051,Account 51,R. Alvarez,Negotiation,9522,2026-12-17
+A00052,Account 52,M. Okafor,Closed lost,12376,2026-12-28
+A00053,Account 53,M. Okafor,Negotiation,75141,2026-11-19
+A00054,Account 54,S. Patel,Closed won,5279,2026-11-24
+A00055,Account 55,M. Okafor,Negotiation,4643,2026-10-24
+A00056,Account 56,R. Alvarez,Closed lost,18309,2026-10-17
+A00057,Account 57,D. Chen,Closed lost,35941,2026-12-03
+A00058,Account 58,S. Patel,Negotiation,4378,2026-12-23
+A00059,Account 59,S. Patel,Proposal,12293,2026-12-04
+A00060,Account 60,M. Okafor,Qualified,5322,2026-11-14
+A00006,Account 6,S. Patel,Closed won,23504,2026-12-13
+Total,,,,2175908,
